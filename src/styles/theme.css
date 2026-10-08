@@ -1,0 +1,28 @@
+:root {
+  --ph-primary: #22b14c;
+  --ph-primary-dark: #16883a;
+  --ph-primary-light: #eaf8ef;
+
+  --ph-danger: #dc2626;
+  --ph-danger-light: #fef2f2;
+
+  --ph-warning: #d97706;
+  --ph-warning-light: #fffbeb;
+
+  --ph-info: #2563eb;
+  --ph-info-light: #eff6ff;
+
+  --ph-bg: #f4f6f5;
+  --ph-surface: #ffffff;
+
+  --ph-border: #dfe5e1;
+
+  --ph-text: #17201a;
+  --ph-text-secondary: #5d6962;
+  --ph-text-muted: #8a948e;
+
+  --ph-sidebar: #17201a;
+  --ph-sidebar-hover: #202b24;
+
+  --ph-radius: 6px;
+}
